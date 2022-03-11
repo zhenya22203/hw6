@@ -1,0 +1,31 @@
+body{
+    background-color: #252525c2;
+}
+
+.div {
+    border: 3px ;
+    height: 450px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.div h1{
+    text-align: center  ;
+    color: #fff;
+}
+
+.input {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 250px;
+    height: 20px;
+}
+
+.button{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -180px;
+    width: 100px;
+    height: 35px;
+}
